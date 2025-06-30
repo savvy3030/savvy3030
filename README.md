@@ -206,29 +206,6 @@
     />
   </a>
 </p>
-<div style="text-align: center">
-  <div style="display: inline-block; height: 100%">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&theme=dracula&locale=en&layout=compact
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&locale=en&layout=compact
-        "
-      />
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&theme=dracula&locale=en&layout=compact"
-        alt="otavio-sousa"
-        style="height: 200px"
-      />
-    </picture>
-  </div>
 
 <div style="text-align: center">
   <img algin="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=savvy3030&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
