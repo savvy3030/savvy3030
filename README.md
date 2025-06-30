@@ -29,6 +29,8 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
@@ -45,6 +47,8 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="icon" />
       <br>Redux
@@ -61,6 +65,8 @@
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="icon" />
       <br>GraphQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -77,7 +83,7 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
       <br>AWS
     </td>              
- </tr>
+  </tr>
 </table>
 </div>
 
