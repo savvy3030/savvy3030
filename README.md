@@ -208,6 +208,6 @@
 </p>
 
 <div style="text-align: center">
-  <img algin="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=savvy3030&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvy3030&layout=compact&cache_seconds=1800&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+  <img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=savvy3030&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvy3030&layout=compact&cache_seconds=1800&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </div>
