@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,elixir,py,django,java,c,cpp,cs,php,nodejs,deno,laravel,react,next,vue,nuxt,angular,svelte,gatsby,bootstrap,tailwind,materialui,threejs,mongodb,mysql,postgres,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,elixir,py,django,java,c,cpp,cs,php,laravel,react,next,vue,nuxt,angular,svelte,gatsby,nodejs,deno,tailwind,materialui,threejs,mongodb,mysql,postgres,firebase,supabase" />
   </a>
 </p>
 <div style="text-align: center;">
