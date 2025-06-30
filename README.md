@@ -44,11 +44,15 @@
       <br>C#
     </td> 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="icon" />
+      <br>Swift
     </td>
   </tr>
   <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="icon" />
       <br>Redux
@@ -56,10 +60,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
       <br>Gatsby
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="icon" />
-      <br>Swift
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="icon" />
@@ -112,4 +112,3 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
-
