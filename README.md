@@ -21,15 +21,15 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://instagram.com/otaviossousa" target="blank"
+  <a href="" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="otaviossousa"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.linkedin.com/in/otaviossousa/" target="blank"
+  <a href="" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
