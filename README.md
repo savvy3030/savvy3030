@@ -37,14 +37,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt=""
-      height="30"
-      width="40"
-  /></a>
 </p>
 
 <h2 align="center">Recently used Stacks</h2>
@@ -238,31 +230,7 @@
     </picture>
   </div>
 
-  <div style="display: inline-block; height: 100%">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&theme=dracula&locale=en
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&locale=en
-        "
-      />
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&theme=dracula&locale=en"
-        alt="otavio-sousa"
-        style="height: 200px"
-      />
-    </picture>
-  </div>
-</div>
-
 <div style="text-align: center">
   <img algin="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=savvy3030&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvy3030&layout=compact&cache_seconds=1800&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvy3030&layout=compact&cache_seconds=1800&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </div>
