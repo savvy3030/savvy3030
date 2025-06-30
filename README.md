@@ -87,7 +87,7 @@
 </table>
   
 #### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,java,php,netlify,supabase,md,git,vscode,linux,ubuntu,debian,redhat&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,java,c,c++,csharp,php,laravel,react,vue,next,angualr,netlify,supabase,md,git,vscode,linux,ubuntu,debian,redhat&perline=15)](https://skillicons.dev)
 
 </div>
 
