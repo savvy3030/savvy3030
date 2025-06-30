@@ -29,10 +29,7 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
+    
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -40,6 +37,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="icon" width="65" height="65" />
+      <br>Vue
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
