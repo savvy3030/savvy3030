@@ -85,14 +85,12 @@
     </td>              
   </tr>
 </table>
-  
-#### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,java,c,cpp,c#,php,laravel,react,vue,next,angular,netlify,supabase,md,git,vscode,linux,ubuntu,debian,redhat&perline=16)](https://skillicons.dev)
-
 </div>
+
+#### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,flutter,dart,java,php,netlify,supabase,md,git,vscode,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,java,c,cpp,cs,php,laravel,react,vue,next,angular,netlify,supabase,md,git,vscode,linux,ubuntu" />
   </a>
 </p>
 <div style="text-align: center;">
