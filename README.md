@@ -90,7 +90,7 @@
 #### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,java,c,cpp,cs,php,laravel,react,vue,next,angular,netlify,supabase,md,git,vscode,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,django,elixir,phonex,flutter,dart,java,c,cpp,cs,php,nodejs,deno,laravel,react,next,vue,nuxt,angular,svelte,gatsby,bootstrap,tailwind,materialui,threejs,mongodb,mysql,postgres,firebase,supabase" />
   </a>
 </p>
 <div style="text-align: center;">
