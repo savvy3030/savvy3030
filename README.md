@@ -12,7 +12,7 @@
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat"
-    alt="otavio-sousa"
+    alt="savvy3030"
   />
 </p>
 <h3 align="center">
@@ -25,7 +25,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="otaviossousa"
+      alt=""
       height="30"
       width="40"
   /></a>
@@ -33,7 +33,15 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="otaviossousa"
+      alt=""
+      height="30"
+      width="40"
+  /></a>
+  <a href="" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt=""
       height="30"
       width="40"
   /></a>
