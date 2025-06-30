@@ -18,6 +18,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
@@ -34,12 +38,28 @@
       <br>C++
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp.svg" width="65" height="65" alt="Nodejs" />
+      <br>C#
+    </td> 
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Nodejs" />
+      <br>Redux
+    </td> 
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
       <br>Gatsby
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="Django" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="Django" />
+      <br>GraphQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -50,9 +70,9 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Nodejs" />
+      <br>Docker
+    </td> 
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
       <br>AWS
