@@ -38,7 +38,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp.svg" width="65" height="65" alt="Nodejs" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="icon" />
       <br>C#
     </td> 
     <td align="center" width="96">
@@ -46,7 +46,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Nodejs" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="icon" />
       <br>Redux
     </td> 
     <td align="center" width="96">
@@ -54,11 +54,11 @@
       <br>Gatsby
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="Django" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="icon" />
       <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="Django" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="icon" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
@@ -70,11 +70,11 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Nodejs" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="icon" />
       <br>Docker
     </td> 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="icon" />
       <br>AWS
     </td>              
  </tr>
