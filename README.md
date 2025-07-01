@@ -202,7 +202,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,elixir,py,django,swift,java,c,cpp,cs,php,laravel,react,next,vue,nuxt,angular,svelte,gatsby,nodejs,deno,tailwind,materialui,threejs,mongodb,postgres,firebase,supabase"
+      src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs,java,swift,elixir,py,django,php,laravel,react,next,vue,nuxt,angular,svelte,gatsby,nodejs,deno,tailwind,materialui,threejs,mongodb,postgres,firebase,supabase"
     />
   </a>
 </p>
